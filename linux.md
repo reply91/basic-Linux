@@ -1,4 +1,4 @@
-# Linux_basic
+# Linux_basic 💻
 basic syntax for linux terminal for dummies 😄
 - [User management](#user-management) 
 
